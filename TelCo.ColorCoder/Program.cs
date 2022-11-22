@@ -17,6 +17,10 @@ namespace TelCo.ColorCoder
         {
             TestCase testCase = new TestCase();
             testCase.ColorCoderTestCases();
+            
+            ///reference manual to print
+            ReferenceManual referenceManual = new ReferenceManual();
+            referenceManual.PrintManual();
         }     
     }
 }
