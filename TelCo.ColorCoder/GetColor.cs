@@ -36,3 +36,6 @@ namespace TelCo.ColorCoder
             // return the value
             return pair;
         }
+    }
+}
+
